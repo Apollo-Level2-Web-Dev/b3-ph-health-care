@@ -18,6 +18,7 @@ const createAdmin = async (req: Request, res: Response) => {
             error: err
         })
     }
+
 };
 
 export const userController = {
